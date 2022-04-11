@@ -1,2 +1,2 @@
 # randomQuoteGenerator
-very simple random quote generator with author using API
+very simple random quote generator retrieved using API
